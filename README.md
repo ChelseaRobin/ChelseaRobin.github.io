@@ -1,5 +1,5 @@
-Theme: jekyll-theme
+theme: "jekyll-theme"
 
-Title: A brief resume
+title: "A brief resume"
 
-Description: View and track my projects.
+description: "View and track my projects"
